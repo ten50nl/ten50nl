@@ -8,10 +8,12 @@ We build webshops and web applications, mostly with Magento, Shopware, Pimcore a
 
 ### Open source
 
-[**Detour**](https://github.com/ten50nl/detour): a free macOS app that opens every link in the right browser and browser profile. It learns from your browsing history, so you hardly need rules. More at [detour.ten50.nl](https://detour.ten50.nl).
+[**Detour**](https://github.com/ten50-nl/detour): a free macOS app that opens every link in the right browser and browser profile. It learns from your browsing history, so you hardly need rules. More at [detour.ten50.nl](https://detour.ten50.nl).
 
 Tools we build for ourselves and think others can use end up here as well.
 
 ### Contact
 
 [ten50.nl](https://www.ten50.nl) · [hallo@ten50.nl](mailto:hallo@ten50.nl)
+
+Our open source work lives at [github.com/ten50-nl](https://github.com/ten50-nl).
